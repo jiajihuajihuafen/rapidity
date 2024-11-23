@@ -1,2 +1,2 @@
 # rapidity
-A modpack tailored for low-spec Minecraft players
+#**-A modpack tailored for low-spec Minecraft players_**
